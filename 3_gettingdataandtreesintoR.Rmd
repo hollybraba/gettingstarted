@@ -1,5 +1,5 @@
 ---
-title: "1Chapter 3: Getting data and trees into R"
+title: "3Chapter 3: Getting data and trees into R"
 output: html_notebook
 ---
 
